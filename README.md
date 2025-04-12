@@ -20,6 +20,8 @@
 
 语音相关功能为百度云API，官方网站：https://cloud.baidu.com/
 
+因担心零一万物大模型 API 及百度云 API 在中国境外可能存在访问限制，特此录制演示视频 desktop-robot-demo-video.mp4 以供参考
+
      
 
 日本語
@@ -48,3 +50,5 @@
 本プロジェクトで使用している大規模言語モデル（LLM）は、中国の「零一万物」が提供するモデルです。公式サイト：https://www.lingyiwanwu.com/
 
 音声関連の機能は、百度クラウドのAPIを使用しています。公式サイト：https://cloud.baidu.com/
+
+中国国外において「零一万物」大規模言語モデルAPIおよびBaidu Cloud APIの利用が制限される可能性があるため、参考用としてデモ動画（desktop-robot-demo-video.mp4）を録画しました。
