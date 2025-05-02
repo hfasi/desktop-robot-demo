@@ -6,9 +6,9 @@ import os
 from aip import AipSpeech
 from playsound import playsound
 
-APP_ID = "90187894"
-API_KEY = "XuHTHjw7kjbdF6X7vNCQRx9Q"
-SECRET_KEY = "DHNVjoYmG1gFNYkFzAorO5rlsbeMQZUU"
+APP_ID = "your_app_id"
+API_KEY = "your_api_key"
+SECRET_KEY = "your_secret_key"
 
 audio_path = "output.wav"
 
