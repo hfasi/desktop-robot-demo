@@ -12,8 +12,8 @@ from langchain_core.messages import AIMessage, HumanMessage, SystemMessage
 from dashscope import MultiModalConversation
 
 
-QWEN_KEY = "sk-a0ee1bcd70cf40e8bb54fff3e10946b4"
-LING_YI_KEY = "97d56101f8954771916d23bb0fe32c22"
+QWEN_KEY = "sk-your_qwen_key"
+LING_YI_KEY = "your_ling_yi_key"
 LING_YI_URL = "https://api.lingyiwanwu.com/v1"
 LING_YI_MODEL = "yi-spark"
 
@@ -117,7 +117,7 @@ import base64
 
 # 零一万物大模型开放平台
 # https://platform.lingyiwanwu.com
-LING_YI_KEY = "97d56101f8954771916d23bb0fe32c22"
+LING_YI_KEY = "your_ling_yi_key"
 LING_YI_BASE_URL = "https://api.lingyiwanwu.com/v1"
 ling_yi_path = "egg_bowl.jpg"
 
